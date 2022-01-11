@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"body{\n  background-color: black;\n  font: 16px \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n}\n\nh1{\n  letter-spacing: -1px;\n}\n\n.nav-button {\n    color: green;\n  }\n\n.homemargin{\n  margin-top: 200px;\n}\n\n.text-allign{\n  text-align: center;\n  position: relative;\n  z-index: 99;\n}\n\n.title{\n  font-family: \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n  font-size: 25px;\n  color: beige;\n\n}\n"
+		"body{\n  background-color: black;\n  font: 16px \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n}\n\nh1{\n  letter-spacing: -1px;\n}\n\n.nav-button {\n    color: green;\n  }\n\n.homemargin{\n  margin-top: 110px;\n}\n\n.text-allign{\n  text-align: center;\n  position: relative;\n  z-index: 99;\n}\n\n.title{\n  font-family: \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n  font-size: 25px;\n  color: beige;\n\n}\n\n.ppicture{\n  width: 8%;\n  height: 8%;\n}\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,IAAI,CAAA,EACF,gBAAgB,EAAE,KAAK,EACvB,IAAI,EAAE,gDAAgD,GACvD;;AAED,AAAA,EAAE,CAAA,EACA,cAAc,EAAE,IAAI,GACrB;;AAED,AAAA,WAAW,CAAC,EACR,KAAK,EAAE,KAAK,GACb;;AAEH,AAAA,WAAW,CAAA,EACT,UAAU,EAAE,KAAK,GAClB;;AAED,AAAA,YAAY,CAAA,EACV,UAAU,EAAE,MAAM,EAClB,QAAQ,EAAE,QAAQ,EAClB,OAAO,EAAE,EAAE,GACZ;;AAED,AAAA,MAAM,CAAA,EACJ,WAAW,EAAE,2CAA2C,EACxD,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,KAAK,GAEb"
+	"mappings": "ACAA,AAAA,IAAI,CAAA,EACF,gBAAgB,EAAE,KAAK,EACvB,IAAI,EAAE,gDAAgD,GACvD;;AAED,AAAA,EAAE,CAAA,EACA,cAAc,EAAE,IAAI,GACrB;;AAED,AAAA,WAAW,CAAC,EACR,KAAK,EAAE,KAAK,GACb;;AAEH,AAAA,WAAW,CAAA,EACT,UAAU,EAAE,KAAK,GAClB;;AAED,AAAA,YAAY,CAAA,EACV,UAAU,EAAE,MAAM,EAClB,QAAQ,EAAE,QAAQ,EAClB,OAAO,EAAE,EAAE,GACZ;;AAED,AAAA,MAAM,CAAA,EACJ,WAAW,EAAE,2CAA2C,EACxD,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,KAAK,GAEb;;AAED,AAAA,SAAS,CAAA,EACP,KAAK,EAAE,EAAE,EACT,MAAM,EAAE,EAAE,GACX"
 }
