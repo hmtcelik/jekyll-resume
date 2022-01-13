@@ -1,8 +1,8 @@
-body { background-color: black; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; }
+body { background-color: black; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; color: beige; }
 
 h1 { letter-spacing: -1px; }
 
-.nav-button { color: green; }
+.active-button { color: #8f5151; }
 
 .homemargin { margin-top: 110px; }
 
@@ -11,5 +11,7 @@ h1 { letter-spacing: -1px; }
 .title { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 25px; color: beige; }
 
 .ppicture { width: 8%; height: 8%; }
+
+.home-nav { font-size: 30px; font-family: Arial, Helvetica, sans-serif; }
 
 /*# sourceMappingURL=styles.css.map */
