@@ -1,11 +1,9 @@
 ---
-layout : home
+layout : default
 title : About
 ---
 
-<div class="home-nav">
-    {% include navigation.html %}
-</div>
+
 
 
 ## About
