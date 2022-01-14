@@ -1,7 +1,7 @@
 body{
   background-color: black;
   font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: #aaa;
+  color: rgb(185, 185, 185);
   font-size: 18px;
 }
 
@@ -15,6 +15,17 @@ h1{
   letter-spacing: -2px;
   text-shadow: 2px 2px #708c8d;
 
+}
+
+h2{
+  margin-top: 100px;
+  color: white;
+  text-align: center;
+}
+
+h3{
+  padding: 0;
+  margin-top: 40px;
 }
 
 .active-button {
@@ -33,7 +44,7 @@ h1{
 
 .title{
   font-size: 25px;
-  color: rgb(223, 223, 215);
+  color: rgb(255, 255, 255);
   letter-spacing: -1;
 
 }
@@ -60,7 +71,6 @@ h1{
 
 
 .other-nav{
-  color: aqua;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
@@ -102,16 +112,25 @@ h1{
 
 .project-links{
   text-decoration: none;
+  color: white;
 }
 
 .project-links:hover{
   opacity: 0.7;
-  color: rgb(0, 68, 255);
+  color: rgb(55, 108, 255);
 }
 
 .footer{
   position: absolute;
   bottom: 0%;
 
+}
+
+.posts{
+  position: relative;
+  padding: 12px;
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 5%;
 }
 

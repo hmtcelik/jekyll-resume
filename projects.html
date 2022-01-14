@@ -3,8 +3,8 @@ layout: about
 title: Projects
 ---
 
-{% for item in site.data.projects %}
+{% for post in site.posts %}
     <div class="about-text">
-        <h2><img src="/assets/img/arrow.png" style="border-radius: 50%;" alt="list" width="15px" height="15px"> <a href="{{ item.url }}" class="project-links   ">{{ item.title }}</a><br></h2>
+        <h2><img src="/assets/img/arrow.png" style="border-radius: 50%;" alt="list" width="15px" height="15px"> <a href="{{ post.url }}" class="project-links   ">{{ post.title }}</a><br></h2>
     </div>
 {% endfor %}
