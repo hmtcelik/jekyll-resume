@@ -14,11 +14,13 @@ h1 { letter-spacing: -2px; text-shadow: 2px 2px #708c8d; }
 
 .ppicture { width: 125px; height: 125px; border-radius: 100%; }
 
-.home-nav { font-size: 25px; font-family: Arial, Helvetica, sans-serif; padding: 15px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 40px; color: #1100ff; }
+.home-nav { font-size: 25px; font-family: Arial, Helvetica, sans-serif; padding: 30px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 40px; color: #1100ff; }
+
+.home-nav a:hover { color: #251e8a; }
 
 .other-nav { color: aqua; font-size: 20px; font-family: Arial, Helvetica, sans-serif; position: absolute; right: 0; top: 0; padding: 7px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 10px; color: #1100ff; }
 
-.fa { padding: 20px; font-size: 30px; width: 50px; text-align: center; text-decoration: none; }
+.fa { padding: 13px; font-size: 25px; width: 50px; text-align: center; text-decoration: none; }
 
 /* Add a hover effect if you want */
 .fa:hover { opacity: 0.7; color: #1100ff; }

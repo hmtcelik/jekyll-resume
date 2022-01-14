@@ -46,12 +46,15 @@ h1{
 .home-nav{
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 15px 15px;
+  padding: 30px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
   word-spacing: 40px;
   color: rgb(17, 0, 255);
+}
 
+.home-nav a:hover{
+  color: rgb(37, 30, 138);
 }
 
 
@@ -68,12 +71,11 @@ h1{
   word-spacing: 10px;
   color: rgb(17, 0, 255);
 
-
 }
 
 .fa {
-  padding: 20px;
-  font-size: 30px;
+  padding: 13px;
+  font-size: 25px;
   width: 50px;
   text-align: center;
   text-decoration: none;
