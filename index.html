@@ -7,14 +7,13 @@ title: Home
         <a href="/about"><img src="assets/img/linux.png" alt="me" class="ppicture"></a>
 
         <div class="title">
-            <h1>Abdulhamit Celik</h1>
+            <h1>{{ site.home-name }}</h1>
         </div>
 
-        <a href="#" class="fa fa-github" target="_blank"></a>
-        <a href="#" class="fa fa-linkedin" target="_blank"></a>
-        <a href="#" class="fa fa-twitter" target="_blank"></a>
-        <a href="#" class="fa fa-envelope" target="_blank"></a>
-
+        <a href="{{ site.github }}" class="fa fa-github" target="_blank"></a>
+        <a href="{{ site.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
+        <a href="{{ site.twitter }}" class="fa fa-twitter" target="_blank"></a>
+        <a href="mailto:{{ site.mail }}" class="fa fa-envelope" rel="noopener" target="_blank"></a>
 
         <div class="home-nav">
             {% include navigation.html %}
