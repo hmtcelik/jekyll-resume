@@ -1,7 +1,13 @@
 body{
   background-color: black;
   font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: beige;
+  color: rgb(223, 223, 215);
+}
+
+a:-webkit-any-link {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 h1{
@@ -40,15 +46,17 @@ h1{
 .home-nav{
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 7px 15px;
+  padding: 15px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
-
+  word-spacing: 40px;
+  color: rgb(17, 0, 255);
 
 }
 
 
 .other-nav{
+  color: aqua;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
@@ -57,4 +65,24 @@ h1{
   padding: 7px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
+  word-spacing: 10px;
+  color: rgb(17, 0, 255);
+
+
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+  color: rgb(17, 0, 255);
+
+}
+

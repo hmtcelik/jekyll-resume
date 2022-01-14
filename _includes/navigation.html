@@ -2,7 +2,7 @@
     <div class="text-allign">
       {% for item in site.data.nav %}
         {% if page.url != item.link %}
-          <a href="{{ item.link }}" style="text-decoration:none;">{{ item.name }}</a>
+          <a href="{{ item.link }}">{{ item.name }}</a>
         {% endif %}
       {% endfor %}
     </div>
