@@ -5,8 +5,9 @@ body{
 }
 
 h1{
-  letter-spacing: -1px;
-  
+  letter-spacing: -2px;
+  text-shadow: 2px 2px #708c8d;
+
 }
 
 .active-button {
@@ -24,20 +25,26 @@ h1{
 }
 
 .title{
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 25px;
-  color: beige;
+  color: rgb(223, 223, 215);
+  letter-spacing: -1;
 
 }
 
 .ppicture{
-  width: 8%;
-  height: 8%;
+  width: 125px;
+  height: 125px;
+  border-radius: 100%;
 }
 
 .home-nav{
-  font-size: 30px;
+  font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
+  padding: 7px 15px;
+  margin: 0;
+  text-shadow: 1px 1px #574c4c;
+
+
 }
 
 
@@ -47,4 +54,7 @@ h1{
   position: absolute;
   right: 0;
   top: 0;
+  padding: 7px 15px;
+  margin: 0;
+  text-shadow: 1px 1px #574c4c;
 }

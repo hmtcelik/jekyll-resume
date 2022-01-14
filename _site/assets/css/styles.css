@@ -1,6 +1,6 @@
 body { background-color: black; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; color: beige; }
 
-h1 { letter-spacing: -1px; }
+h1 { letter-spacing: -2px; text-shadow: 2px 2px #708c8d; }
 
 .active-button { color: #8f5151; }
 
@@ -8,12 +8,12 @@ h1 { letter-spacing: -1px; }
 
 .text-allign { text-align: center; position: relative; z-index: 99; }
 
-.title { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 25px; color: beige; }
+.title { font-size: 25px; color: #dfdfd7; letter-spacing: -1; }
 
-.ppicture { width: 8%; height: 8%; }
+.ppicture { width: 125px; height: 125px; border-radius: 100%; }
 
-.home-nav { font-size: 30px; font-family: Arial, Helvetica, sans-serif; }
+.home-nav { font-size: 25px; font-family: Arial, Helvetica, sans-serif; padding: 7px 15px; margin: 0; text-shadow: 1px 1px #574c4c; }
 
-.other-nav { font-size: 20px; font-family: Arial, Helvetica, sans-serif; position: absolute; right: 0; top: 0; }
+.other-nav { font-size: 20px; font-family: Arial, Helvetica, sans-serif; position: absolute; right: 0; top: 0; padding: 7px 15px; margin: 0; text-shadow: 1px 1px #574c4c; }
 
 /*# sourceMappingURL=styles.css.map */
