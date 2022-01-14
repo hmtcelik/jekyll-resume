@@ -1,7 +1,8 @@
 body{
   background-color: black;
   font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif;
-  color: rgb(223, 223, 215);
+  color: #aaa;
+  font-size: 15px;
 }
 
 a:-webkit-any-link {
@@ -88,3 +89,12 @@ h1{
 
 }
 
+.about {
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%);
+  margin-top: 100px;
+  font-size: 17px;
+  line-height: 1.4;
+
+}
