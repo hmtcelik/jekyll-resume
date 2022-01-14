@@ -95,6 +95,10 @@ h1{
   margin-top: 100px;
   line-height: 1.4;
 }
+.about-text{
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
+}
 
 .project-links{
   text-decoration: none;
@@ -104,3 +108,10 @@ h1{
   opacity: 0.7;
   color: rgb(0, 68, 255);
 }
+
+.footer{
+  position: absolute;
+  bottom: 0%;
+
+}
+
