@@ -3,10 +3,11 @@ layout : about
 title : About me
 ---
 
-I am a computer engineering student at first year and I'm working on back-end dev using django.
+I am a first year computer engineering student and I'm working on back-end dev using django.
 
 ## <span style="color:white">Skills</span>
-- **Python** - Django, Pygame
+- **Python**
+- **Python Frameworks** (Django, Pygame)
 - **Ruby** - Jekyll
 - **HTML**
 - **CSS** - Sass

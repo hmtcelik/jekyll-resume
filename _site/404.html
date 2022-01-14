@@ -2,17 +2,26 @@
 <html>
   <head>
     <!-- 404 page if-->
-    {% if page.url == "/404.html" %}
+    
       <meta http-equiv="refresh" content="5; url=/">
-    {% endif %}
+    
     
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>404</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-        {{ content }}
+        <div class="homemargin">
+    <div class="text-allign">
+        <h1>Oh! This page does not exist</h1>
+        <p>You are going to redirect to <strong><a href="/" style="text-decoration: underline;">Home...</a></strong></p>
+        <img src="/assets/img/getlost.gif" alt="getlost">
+
+    </div>
+</div>
+
+
     <footer>
       
 

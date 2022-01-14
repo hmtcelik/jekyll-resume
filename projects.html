@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: about
+title: Projects
 ---
 
+{% for item in site.data.projects %}
+    <h2><img src="/assets/img/arrow.png" style="border-radius: 50%;" alt="list" width="15px" height="15px"> <a href="{{ item.url }}" class="project-links   ">{{ item.title }}</a><br></h2>
+{% endfor %}
