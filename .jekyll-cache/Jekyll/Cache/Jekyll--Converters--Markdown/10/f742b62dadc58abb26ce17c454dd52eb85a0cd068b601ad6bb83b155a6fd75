@@ -1,0 +1,22 @@
+I"y<p>This website can calculation area and volume some 3D objects. Built with Python Django 3.2.9</p>
+
+<ul>
+  <li>All Bootstrap and other files (css,scss,js and images) in static folder</li>
+</ul>
+
+<h3 id="homepage">HomePage:</h3>
+<p><img src="/assets/img/areacalc1.png" alt="calcss" class="postimage" /></p>
+
+<p>There are 6 3D objects in this webiste :</p>
+<ul>
+  <li>Sphere</li>
+  <li>Cylinder</li>
+  <li>Cone</li>
+  <li>Rectangular Prism</li>
+  <li>Triangular Prism</li>
+  <li>Pyramid</li>
+</ul>
+
+<h3 id="example-sphere-page">Example; Sphere Page:</h3>
+<p><img src="/assets/img/areacalc2.png" alt="calcss2" class="postimage" /></p>
+:ET

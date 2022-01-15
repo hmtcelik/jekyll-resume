@@ -82,7 +82,7 @@ h3{
   position: absolute;
   right: 0;
   top: 0;
-  padding: 7px 15px;
+  padding: 10px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
   word-spacing: 15px;
@@ -131,17 +131,52 @@ h3{
 }
 
 
+.postimage{
+  margin: 0 auto;
+  padding: 10px;
+  width: 720px;
+  height: auto;
+}
+
+
+
+
+
+
 .projects{
+  margin-top: 40px;
   margin-left: 15%;
   margin-right: 15%;
 }
 
-.gitcard{
-  border-radius: 1%; 
-  width: 480;
-  height: 180px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 25px;
-  box-shadow: 1px 1px 1px rgb(156, 156, 156), 0 0 5px rgb(175, 175, 175), 0 0 1px rgb(121, 121, 121);
+
+
+
+.gallery {
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid rgb(112, 112, 112);
+  width: 550px;
+}
+
+.gallery:hover {
+  border: 1px solid rgb(58, 58, 58);
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+.borderbot {
+  border-left: 1px solid #222222;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
 }

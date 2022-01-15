@@ -1,0 +1,26 @@
+I"<ul>
+  <li>This website can calculation area and volume some 3D objects</li>
+  <li>Django version: 3.2.9</li>
+  <li>All Bootstrap and other files (css,scss,js and images) in static folder</li>
+</ul>
+
+<h3 id="homepage">HomePage:</h3>
+<p><img src="./static/img/screenshot-for-md.png" alt="home" /></p>
+
+<p>There are 6 3D objects in this webiste :</p>
+<ul>
+  <li>Sphere</li>
+  <li>Cylinder</li>
+  <li>Cone</li>
+  <li>Rectangular Prism</li>
+  <li>Triangular Prism</li>
+  <li>Pyramid</li>
+</ul>
+
+<h3 id="example-sphere-page">Example; Sphere Page:</h3>
+<p><img src="./static/img/screenshot-for-md2.png" alt="home" /></p>
+
+<h2 id="contact">Contact</h2>
+<p>If you have any question, please send an email: <code class="language-plaintext highlighter-rouge">abhmtcelik@gmail.com</code></p>
+
+:ET
