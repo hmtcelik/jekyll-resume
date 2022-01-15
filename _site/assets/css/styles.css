@@ -1,12 +1,12 @@
-body { background-color: black; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; color: #b9b9b9; font-size: 18px; }
+body { background-color: black; font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif; color: #b9b9b9; font-size: 18px; margin-top: 130px; }
 
 a:-webkit-any-link { color: inherit; cursor: pointer; text-decoration: none; }
 
-h1 { letter-spacing: -2px; text-shadow: 2px 2px #708c8d; }
+h1 { letter-spacing: -2px; text-shadow: 2px 2px #708c8d; color: white; }
 
 h2 { margin-top: 100px; color: white; text-align: center; }
 
-h3 { padding: 0; margin-top: 40px; }
+h3 { padding: 12px; margin-top: 40px; color: white; }
 
 .active-button { color: #8f5151; }
 
@@ -18,17 +18,17 @@ h3 { padding: 0; margin-top: 40px; }
 
 .ppicture { width: 125px; height: 125px; border-radius: 100%; }
 
-.home-nav { font-size: 25px; font-family: Arial, Helvetica, sans-serif; padding: 30px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 40px; color: #1100ff; }
+.home-nav { font-size: 25px; font-family: Arial, Helvetica, sans-serif; padding: 35px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 43px; color: #1100ff; margin-top: 35px; }
 
 .home-nav a:hover { color: #251e8a; }
 
-.other-nav { font-size: 20px; font-family: Arial, Helvetica, sans-serif; position: absolute; right: 0; top: 0; padding: 7px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 10px; color: #1100ff; }
+.other-nav { font-size: 20px; font-family: Arial, Helvetica, sans-serif; position: absolute; right: 0; top: 0; padding: 7px 15px; margin: 0; text-shadow: 1px 1px #574c4c; word-spacing: 15px; color: #1100ff; }
 
-.fa { padding: 13px; font-size: 25px; width: 50px; text-align: center; text-decoration: none; }
+.fa { padding: 10px; font-size: 25px; width: 50px; text-align: center; text-decoration: none; }
 
 .fa:hover { opacity: 0.7; color: #1100ff; }
 
-.about { position: fixed; left: 50%; transform: translate(-50%); margin-top: 100px; line-height: 1.4; }
+.about { line-height: 1.4; margin: 0 auto; width: 50%; max-width: 750px; }
 
 .about-text { border-top: 1px solid #222; border-bottom: 1px solid #222; }
 
@@ -38,6 +38,8 @@ h3 { padding: 0; margin-top: 40px; }
 
 .footer { position: absolute; bottom: 0%; }
 
-.posts { position: relative; padding: 12px; margin-top: 20px; margin-left: 20%; margin-right: 5%; }
+.projects { margin-left: 15%; margin-right: 15%; }
+
+.gitcard { border-radius: 1%; width: 480; height: 180px; margin-left: 10px; margin-right: 10px; margin-top: 25px; box-shadow: 1px 1px 1px #9c9c9c, 0 0 5px #afafaf, 0 0 1px #797979; }
 
 /*# sourceMappingURL=styles.css.map */

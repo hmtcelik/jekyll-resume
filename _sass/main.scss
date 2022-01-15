@@ -3,6 +3,7 @@ body{
   font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif;
   color: rgb(185, 185, 185);
   font-size: 18px;
+  margin-top: 130px;
 }
 
 a:-webkit-any-link {
@@ -14,18 +15,20 @@ a:-webkit-any-link {
 h1{
   letter-spacing: -2px;
   text-shadow: 2px 2px #708c8d;
-
+  color: white;
 }
 
 h2{
   margin-top: 100px;
   color: white;
   text-align: center;
+
 }
 
 h3{
-  padding: 0;
+  padding: 12px;
   margin-top: 40px;
+  color:white;
 }
 
 .active-button {
@@ -49,6 +52,7 @@ h3{
 
 }
 
+
 .ppicture{
   width: 125px;
   height: 125px;
@@ -58,11 +62,12 @@ h3{
 .home-nav{
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 30px 15px;
+  padding: 35px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
-  word-spacing: 40px;
+  word-spacing: 43px;
   color: rgb(17, 0, 255);
+  margin-top: 35px;
 }
 
 .home-nav a:hover{
@@ -79,13 +84,13 @@ h3{
   padding: 7px 15px;
   margin: 0;
   text-shadow: 1px 1px #574c4c;
-  word-spacing: 10px;
+  word-spacing: 15px;
   color: rgb(17, 0, 255);
 
 }
 
 .fa {
-  padding: 13px;
+  padding: 10px;
   font-size: 25px;
   width: 50px;
   text-align: center;
@@ -95,15 +100,13 @@ h3{
 .fa:hover {
   opacity: 0.7;
   color: rgb(17, 0, 255);
-
 }
 
 .about {
-  position: fixed;
-  left: 50%;
-  transform: translate(-50%);
-  margin-top: 100px;
   line-height: 1.4;
+  margin: 0 auto;
+  width: 50%;
+  max-width: 750px;
 }
 .about-text{
   border-top: 1px solid #222;
@@ -126,11 +129,18 @@ h3{
 
 }
 
-.posts{
-  position: relative;
-  padding: 12px;
-  margin-top: 20px;
-  margin-left: 20%;
-  margin-right: 5%;
+
+.projects{
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
+.gitcard{
+  border-radius: 1%; 
+  width: 480;
+  height: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 25px;
+  box-shadow: 1px 1px 1px rgb(156, 156, 156), 0 0 5px rgb(175, 175, 175), 0 0 1px rgb(121, 121, 121);
+}

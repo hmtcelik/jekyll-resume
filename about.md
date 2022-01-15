@@ -5,7 +5,9 @@ title : About me
 
 I am a first year computer engineering student and I'm working on back-end dev using django.
 
-## <span style="color:white">Skills</span>
+
+### Skills
+
 - **Python**
 - **Python Frameworks** (Django, Pygame)
 - **Ruby** - Jekyll
