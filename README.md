@@ -1,4 +1,4 @@
-# Personal Website
+# Personal Website (Still in Processing)
 
 My personal website built with Jekyll. Jekyll is static website generator so you can create a static website very easily. If you want to use this website, firstly you have to install jekyll on your computer
 
