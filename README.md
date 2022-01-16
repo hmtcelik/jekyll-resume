@@ -2,7 +2,7 @@
 
 My personal website built with Jekyll. Jekyll is static website generator so you can create a static website very easily. If you want to use this website, firstly you have to install jekyll on your computer
 
-**Link**: abdulhamitcelik.com
+**Link**: https://abdulhamitcelik.com/
 
 ## Installation
 Jekyll is a Ruby gem. First, install Ruby on your machine.
