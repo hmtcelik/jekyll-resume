@@ -111,7 +111,6 @@ h3{
 }
 .about-text{
   border-top: 1px solid #222;
-  border-bottom: 1px solid #222;
 }
 
 .project-links{
@@ -124,11 +123,15 @@ h3{
   color: rgb(55, 108, 255);
 }
 
-.footer{
-  position: absolute;
-  bottom: 0%;
-
+.footer {
+  margin: 0 auto;
+  bottom: auto;
+  margin-top: 100px;
+  color: rgb(104, 104, 104);
+  text-align: center;
+  border-top: 1px solid #222;
 }
+
 
 
 .postimage{
@@ -154,7 +157,7 @@ h3{
 
 .gallery {
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 25px;
   border: 1px solid rgb(112, 112, 112);
   width: 550px;
 }
