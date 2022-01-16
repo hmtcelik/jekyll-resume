@@ -107,7 +107,8 @@ h3{
   line-height: 1.4;
   margin: 0 auto;
   width: 50%;
-  max-width: 750px;
+  max-width: 100%;
+
 }
 .about-text{
   border-top: 1px solid #222;
@@ -139,8 +140,9 @@ h3{
   padding: 10px;
   width: 720px;
   height: auto;
-}
+  max-width: 100%;
 
+}
 
 
 
@@ -160,6 +162,8 @@ h3{
   margin-top: 25px;
   border: 1px solid rgb(112, 112, 112);
   width: 550px;
+  max-width: 100%;
+
 }
 
 .gallery:hover {
