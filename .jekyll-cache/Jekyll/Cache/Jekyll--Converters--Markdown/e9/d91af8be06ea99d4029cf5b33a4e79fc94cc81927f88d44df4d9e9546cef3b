@@ -1,0 +1,21 @@
+I"Þ<div style="margin-left:40px;">
+A django app for tasks/goals or something like. This app is make a list for your tasks.
+</div>
+
+<h2 id="features">Features</h2>
+<ul>
+  <li>View all task as list</li>
+  <li>Create task</li>
+  <li>Edit task</li>
+  <li>Delete task</li>
+  <li>View task detail (on the task page)</li>
+</ul>
+
+<h3 id="index-page">Index Page</h3>
+<p><img src="/assets/img/post_imgs/to-do-app/to-do-cover.png" alt="calcss" style="height:30%; width:20%; margin-left:30px;" class="postimage" /></p>
+
+<h3 id="are-you-sure">Are you sure?</h3>
+<p>When click delete button:</p>
+
+<p><img src="/assets/img/post_imgs/to-do-app/to-do-delete.png" alt="calcss" style="height:120px; width:400px; margin-left:30px;" class="postimage" /></p>
+:ET
